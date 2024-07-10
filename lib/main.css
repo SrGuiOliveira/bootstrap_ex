@@ -1,0 +1,29 @@
+*{
+    font-family: "Exo 2", sans-serif;
+}
+h1 {
+    font-style: italic;
+}
+.container header,
+.nav-item a {
+    background-color: rgb(102, 184, 184);
+    color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+
+section {
+    margin-top: 2%;
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
